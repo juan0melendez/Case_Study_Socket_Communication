@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SocketServer">
+</Property><Property Name="Solution File" Value="C:\SunYuUCA\Teaching\OperatingSystem_Fall2009\VB.NET_Socket_Cmmunications\vbSockets\SocketServer\SocketServer.sln">
+</Property><Property Name="User Options File" Value="C:\SunYuUCA\Teaching\OperatingSystem_Fall2009\VB.NET_Socket_Cmmunications\vbSockets\SocketServer\SocketServer.suo">
+</Property><Property Name="Date" Value="Sunday, November 08, 2009">
+</Property><Property Name="Time" Value="13:28 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SocketServer.sln" Description="File successfully backed up as C:\SunYuUCA\Teaching\OperatingSystem_Fall2009\VB.NET_Socket_Cmmunications\vbSockets\SocketServer\Backup\SocketServer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SocketServer.suo" Description="File successfully backed up as C:\SunYuUCA\Teaching\OperatingSystem_Fall2009\VB.NET_Socket_Cmmunications\vbSockets\SocketServer\Backup\SocketServer.suo">
+</Event><Event ErrorLevel="0" Project="SocketServer" Source="SocketServer.vbproj" Description="Project file successfully backed up as C:\SunYuUCA\Teaching\OperatingSystem_Fall2009\VB.NET_Socket_Cmmunications\vbSockets\SocketServer\Backup\SocketServer.vbproj">
+</Event><Event ErrorLevel="0" Project="SocketServer" Source="SocketServer.vbproj.user" Description="Project user file successfully backed up as C:\SunYuUCA\Teaching\OperatingSystem_Fall2009\VB.NET_Socket_Cmmunications\vbSockets\SocketServer\Backup\SocketServer.vbproj.user">
+</Event><Event ErrorLevel="0" Project="SocketServer" Source="AssemblyInfo.vb" Description="File successfully backed up as C:\SunYuUCA\Teaching\OperatingSystem_Fall2009\VB.NET_Socket_Cmmunications\vbSockets\SocketServer\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="SocketServer" Source="Client.vb" Description="File successfully backed up as C:\SunYuUCA\Teaching\OperatingSystem_Fall2009\VB.NET_Socket_Cmmunications\vbSockets\SocketServer\Backup\Client.vb">
+</Event><Event ErrorLevel="0" Project="SocketServer" Source="Form1.vb" Description="File successfully backed up as C:\SunYuUCA\Teaching\OperatingSystem_Fall2009\VB.NET_Socket_Cmmunications\vbSockets\SocketServer\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="SocketServer" Source="licenses.licx" Description="File successfully backed up as C:\SunYuUCA\Teaching\OperatingSystem_Fall2009\VB.NET_Socket_Cmmunications\vbSockets\SocketServer\Backup\licenses.licx">
+</Event><Event ErrorLevel="0" Project="SocketServer" Source="Form1.resx" Description="File successfully backed up as C:\SunYuUCA\Teaching\OperatingSystem_Fall2009\VB.NET_Socket_Cmmunications\vbSockets\SocketServer\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="SocketServer" Source="SocketServer.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SocketServer" Source="SocketServer.vbproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="SocketClient" Source="..\SocketClient\SocketClient.vbproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="SocketClient" Source="..\SocketClient\SocketClient.vbproj" Description="Project file successfully backed up as C:\SunYuUCA\Teaching\OperatingSystem_Fall2009\VB.NET_Socket_Cmmunications\vbSockets\SocketServer\Backup\SocketClient\SocketClient.vbproj">
+</Event><Event ErrorLevel="0" Project="SocketClient" Source="..\SocketClient\SocketClient.vbproj.user" Description="Project user file successfully backed up as C:\SunYuUCA\Teaching\OperatingSystem_Fall2009\VB.NET_Socket_Cmmunications\vbSockets\SocketServer\Backup\SocketClient\SocketClient.vbproj.user">
+</Event><Event ErrorLevel="0" Project="SocketClient" Source="..\SocketClient\AssemblyInfo.vb" Description="File successfully backed up as C:\SunYuUCA\Teaching\OperatingSystem_Fall2009\VB.NET_Socket_Cmmunications\vbSockets\SocketServer\Backup\SocketClient\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="SocketClient" Source="..\SocketClient\Form1.vb" Description="File successfully backed up as C:\SunYuUCA\Teaching\OperatingSystem_Fall2009\VB.NET_Socket_Cmmunications\vbSockets\SocketServer\Backup\SocketClient\Form1.vb">
+</Event><Event ErrorLevel="0" Project="SocketClient" Source="..\SocketClient\licenses.licx" Description="File successfully backed up as C:\SunYuUCA\Teaching\OperatingSystem_Fall2009\VB.NET_Socket_Cmmunications\vbSockets\SocketServer\Backup\SocketClient\licenses.licx">
+</Event><Event ErrorLevel="0" Project="SocketClient" Source="..\SocketClient\Form1.resx" Description="File successfully backed up as C:\SunYuUCA\Teaching\OperatingSystem_Fall2009\VB.NET_Socket_Cmmunications\vbSockets\SocketServer\Backup\SocketClient\Form1.resx">
+</Event><Event ErrorLevel="0" Project="SocketClient" Source="..\SocketClient\SocketClient.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SocketClient" Source="..\SocketClient\SocketClient.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SocketServer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SocketServer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SocketServer" Source="SocketServer.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SocketClient" Source="..\SocketClient\SocketClient.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

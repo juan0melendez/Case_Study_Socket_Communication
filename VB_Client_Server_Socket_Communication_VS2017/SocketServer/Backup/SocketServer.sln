@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SocketServer", "SocketServer.vbproj", "{B407C706-48A7-41AB-A22D-312BA66A003E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SocketClient", "..\SocketClient\SocketClient.vbproj", "{4ECA9402-B16F-49EC-AA8B-4D03AE4687F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{B407C706-48A7-41AB-A22D-312BA66A003E}.Debug.ActiveCfg = Debug|.NET
+		{B407C706-48A7-41AB-A22D-312BA66A003E}.Debug.Build.0 = Debug|.NET
+		{B407C706-48A7-41AB-A22D-312BA66A003E}.Release.ActiveCfg = Release|.NET
+		{B407C706-48A7-41AB-A22D-312BA66A003E}.Release.Build.0 = Release|.NET
+		{4ECA9402-B16F-49EC-AA8B-4D03AE4687F1}.Debug.ActiveCfg = Debug|.NET
+		{4ECA9402-B16F-49EC-AA8B-4D03AE4687F1}.Debug.Build.0 = Debug|.NET
+		{4ECA9402-B16F-49EC-AA8B-4D03AE4687F1}.Release.ActiveCfg = Release|.NET
+		{4ECA9402-B16F-49EC-AA8B-4D03AE4687F1}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
